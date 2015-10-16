@@ -1,6 +1,6 @@
 name: Testingsite
 favicon: null
-layout_spectrum: 0.8
+layout_spectrum: 0.42999374913051724
 cta:
   domain: null
   bucket: null
@@ -23,3 +23,4 @@ purpose:
   - name: shares
     item: null
     url: null
+typography_spectrum: 0.014758546138182282
